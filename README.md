@@ -108,3 +108,5 @@ A curated list of resources for learning and programming in Noir.
 
 - [Private Execution Environment (PXE) API Reference](https://docs.aztec.network/developers/reference/aztecjs/pxe/interfaces/pxe)
 - [Current Limitations](https://docs.aztec.network/developers/reference/considerations/limitations)
+
+                                                                         <p align="right">(<a href="#top">🔼 Back to top</a>)</p>
